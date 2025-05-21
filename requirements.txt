@@ -1,0 +1,7 @@
+opencv-python
+torch
+scikit-image
+pillow
+torchvision
+gTTS
+pygame
